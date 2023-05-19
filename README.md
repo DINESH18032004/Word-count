@@ -36,7 +36,6 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 
 ## PROGRAM:
-
 ```program to count the words in a file
 Developed by:DINESH KUMAR R
 Register Number:212222110010
